@@ -9,6 +9,11 @@ I'm currently learning Python, Machine Learning, SQL, and Data Visualization
 
 Ask me about Data Analysis and Python programming
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+
+
 How to reach me: vikasmangrora17@gmail.com
 
 Connect with me:
@@ -22,5 +27,3 @@ Data Science Skills
 
 Web Development Skills
 • HTML • CSS • Basics of JavaScript
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
